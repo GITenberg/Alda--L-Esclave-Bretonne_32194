@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35719
     wikipedia: http://en.wikipedia.org/wiki/Agnes_Strickland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32194#Alda--L-Esclave-Bretonne
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-05-01'
 gutenberg_type: Text
